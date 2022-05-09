@@ -1,0 +1,77 @@
+
+
+header{
+    text-align: center; 
+} 
+
+table{
+    position: relative;
+    bottom: 100px;
+}
+
+h1{
+    position: relative;
+    height: 50px;
+    right: 888px;
+    bottom: 130px;
+}
+
+table, th, td{
+    border: 1px solid black;
+    
+}
+
+
+
+
+h2{
+position: relative;
+top: 100px;
+right: 880px;
+}
+
+h3{
+position: relative;
+top: 180px;
+right: 810px; 
+
+
+}
+
+article{
+    position: relative;
+    top: 90px;
+    color: blue;
+    text-align: right;
+}
+
+aside{
+    position: relative; 
+    color: purple ;
+    top: 780px;
+     
+
+}
+
+div{
+    position: relative;
+    top: 200px; 
+    color: red;
+}
+
+a{
+    position: relative;
+    bottom: 200px;
+     
+}
+
+
+
+footer{
+    position: relative;
+    top : 400px;
+    color: green;
+    text-align:right;
+
+
+}
